@@ -1,0 +1,6 @@
+ hello,     the world!
+This	is	a	tab	line.
+1234567890123456789012345678901234567
+this  is  the  end\.
+a
+123456789012345678901234567890
