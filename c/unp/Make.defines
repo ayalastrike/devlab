@@ -1,0 +1,6 @@
+CC = gcc
+CFLAGS = -I../lib -g -O2 -D_REENTRANT -Wall
+LIBS = ../lib/error.c ../lib/byteorder.c ../lib/wrapsock.c ../lib/wrapunix.c ../lib/sock_ntop.c ../lib/str_echo.c ../lib/str_cli.c
+
+CLEANFILES = core core.* *.core *.o temp.* *.out typescript* \
+		*.lc *.lh *.bsdi *.sparc *.uw
